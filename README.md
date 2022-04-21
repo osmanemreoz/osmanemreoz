@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanemreoz&label=Profile%20views&color=0e75b6&style=flat" alt="osmanemreoz" /> </p>
 
-<h2 align="left">Languages and Tools:</h2>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 🔭 I am a graduate of mathematics department!
 - 🌱 I am currently learning data science and Machine Learning!
@@ -19,6 +17,7 @@
 - 📫 How to reach me **osmanemreoz.1@gmail.com**
 - ⚡ Fun fact: I love watching movies and Computer games!
 
+<h2 align="left">Languages and Tools:</h2>
 
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
