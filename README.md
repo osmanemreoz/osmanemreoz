@@ -6,6 +6,9 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h2> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanemreoz&label=Profile%20views&color=0e75b6&style=flat" alt="osmanemreoz" /> </p>
+
 <h2 align="left">Languages and Tools:</h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
