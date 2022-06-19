@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://twitter.com/emrennium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emrennium" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/osmanemreoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmanemreoz" height="30" width="40" /></a>
-<a href="https://kaggle.com/mechanicc11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mechanicc11" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/osmanemrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mechanicc11" height="30" width="40" /></a>
 <a href="https://instagram.com/oemreeoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oemreeoz" height="30" width="40" /></a>
 </p>
 
