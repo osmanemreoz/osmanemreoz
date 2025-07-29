@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">I graduated from the Department of Mathematics in 2021. I am currently working as a Data Scientist at DATAMIND - Data to Competitive Advantage. In my role, I am actively involved in Data Pre-Processing, Data Mining and Modeling processes in Data Science projects. The technologies I use are Python, SQL and IBM SPSS Modeler. My biggest hobby is to improve myself in this field now and in the future. To take a look at my work, you can check out my profile links below.</h3>
+<h3 align="center">I graduated from the Department of Mathematics in 2021.
+
+I have approximately 2.5 years of experience as a Data Scientist in the industry. In this role, I actively participated in Data Science projects in the areas of Data Preprocessing, Data Mining, and Modeling. The technologies I use include Python, SQL, and IBM SPSS Modeler.
+
+My biggest hobby is improving myself in this field, both now and in the future.
+
+You can explore my work by checking out my profile links below.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
